@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start:tsx": "tsx ./repro.mjs",
+    "start:node": "node ./repro.mjs"
+  },
+  "dependencies": {
+    "signal-exit": "^3.0.7",
+    "tsx": "^3.12.3"
+  }
+}
