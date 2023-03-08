@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start:tsx": "tsx ./repro.mjs",
+    "start": "tsx ./repro.mjs",
     "start:node": "node ./repro.mjs"
   },
   "dependencies": {
